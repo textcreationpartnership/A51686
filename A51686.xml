@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corpus sine capite visibili, an ænigmaticall emblem, or, a modell of these distemper'd times being an apparent body, well proportioned, upright and streight, but yet without any visible head, in this our most unhappy mereridian [sic] of London, lately conceived in a dreame or slumber, and now delineated, penned and produced, to the open view of the world / by I.M., Student of Exon. in Oxon.</title>
+            <author>I. M., Student of Exon. in Oxon.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51686</idno>
+            <idno type="STC">Wing M31A</idno>
+            <idno type="STC">ESTC R5813</idno>
+            <idno type="EEBO-CITATION">12986756</idno>
+            <idno type="OCLC">ocm 12986756</idno>
+            <idno type="VID">96215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51686)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 719:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corpus sine capite visibili, an ænigmaticall emblem, or, a modell of these distemper'd times being an apparent body, well proportioned, upright and streight, but yet without any visible head, in this our most unhappy mereridian [sic] of London, lately conceived in a dreame or slumber, and now delineated, penned and produced, to the open view of the world / by I.M., Student of Exon. in Oxon.</title>
+                  <author>I. M., Student of Exon. in Oxon.</author>
+               </titleStmt>
+               <extent>[14] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Luke Norton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:96215:1"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of headless man standing atop three figures</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:96215:1" rendition="simple:additions"/>
+            <p>CORPUS ſine CAPITE viſibili, An <hi>Aenigmaticall</hi> EMBLEM; OR, A MODELL Of theſe diſtemper'd <hi>Times.</hi>
+            </p>
+            <p>BEING An apparent BODY, well proportioned, upright and ſtreight, but yet without any viſible HEAD, in this Our moſt Unhappy <hi>Mereridian</hi> of LONDON.</p>
+            <p>Lately conceived in a <hi>Dredine</hi> or <hi>Slumber.</hi>
+            </p>
+            <p>And now, Delineated, penned and produced, to the open view of the WORLD.</p>
+            <p>
+               <hi>By</hi> I. M. <hi>Student of</hi> Exon. <hi>in</hi> Oxon.</p>
+            <q>
+               <l>This <hi>Corporate CITY</hi> ſeems to want a <hi>HEAD:</hi>
+               </l>
+               <l>And that's the Cauſe all <hi>Trading's</hi> growne ſo dead.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Luke Norton,</hi> in the Yeare, 1642.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:96215:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of headless man standing atop three figures</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:96215:2"/>
+            <head>THE DESCRIPTION AND explanation of the precedent EMBLEM.</head>
+            <head type="sub">With ſome few Digreſsions not imperti<g ref="char:EOLhyphen"/>nent unto the Matter intended.</head>
+            <l>
+               <hi>
+                  <seg rend="decorInit">R</seg>EADER,</hi> This <hi>Emblem</hi> here before thine eyes,</l>
+            <l>May ſeeme a Wonder full of Quiddities,</l>
+            <l>And if it ſhould appeare ſo, at firſt view,</l>
+            <l>Yet thinke it not ſo ſtrange, as it is true:</l>
+            <l>'Tis in a Chriſtian manner meant and pen'd,</l>
+            <l>Conteining nothing good men to offend,</l>
+            <l>How-ever at ſome things Thou mayſt admire,</l>
+            <l>Thy Love and gentle Cenſure I deſire:</l>
+            <l>And if thou wouldſt know more, obſerve it well,</l>
+            <l>The meaning in plaine Termes Ile breifly tell.</l>
+            <l>The DIADEM encompaſt with a <hi>Wreath,</hi>
+            </l>
+            <l>Doth ſhow the <hi>Crowne</hi> is ſafe though <hi>Mars</hi> doth breath</l>
+            <l>Such furious, bitter bluſtering blaſts abroade</l>
+            <l>As if an ARMY were in every Roade;</l>
+            <l>In every Way each Citty Towne and Village,</l>
+            <l>Ready to Murder Plunder ſpoile and Pillage.</l>
+            <l>The <hi>SCEPTER</hi> ſeene within the Lawreat Band,</l>
+            <l>Shewes that the Regall Power moſt firme doth ſtand.</l>
+            <l>The <hi>ANGELS</hi> that on either ſide ſupport,</l>
+            <l>Doe ſhew that <hi>GOD</hi> is our Defence and Fort;</l>
+            <l>Hee guards the <hi>CROWNE</hi> and <hi>SCEPTER</hi> with his Wing,</l>
+            <l>Though (for the preſent) wee can ſee no <hi>KING:</hi>
+            </l>
+            <l>
+               <pb facs="tcp:96215:3"/>His Grace (though ſtrangely led, and like to fall,</l>
+            <l>Dwels yet i'th' hearts of his good Subjects all.</l>
+            <l>And though remote a while he doth remaine,</l>
+            <l>Hee'l in good time (I hope) returne againe.</l>
+            <l>The <hi>LORD</hi> (I truſt) will ſo illuminate</l>
+            <l>Our <hi>SOVERAIGNS Eyes,</hi> that he may ſee the ſtate</l>
+            <l>And ſad Condition comming on us all,</l>
+            <l>Threatning as well <hi>His</hi> Ruine as <hi>Our</hi> Fall.</l>
+            <l>The little Sentence in the Wreath ſet downe,</l>
+            <l>Shewes Patience is a <hi>Iewell,</hi> Vertues <hi>CROWNE,</hi>
+            </l>
+            <l>And our long patience waiting for our KING,</l>
+            <l>May prove a Comfort, though it ſeemes a Sting,</l>
+            <l>For in <hi>His</hi> abſence he the more may try</l>
+            <l>His flatterring <hi>Foes,</hi> with all their Treachery:</l>
+            <l>And more he ſees them troublous to the State,</l>
+            <l>The more their Projects hee'l deteſt and hate.</l>
+            <l>The Body well compoſed and well bent,</l>
+            <l>Portends a Wiſe Religious PARLIAMENT,</l>
+            <l>Wherein both Houſes are ſo joyn'd together,</l>
+            <l>They ſtartle at no <hi>Storm's,</hi> They feare no Weather;</l>
+            <l>Come <hi>Life</hi> come <hi>Death,</hi> the full reſolved are</l>
+            <l>To maintaine true <hi>Religion,</hi> that's their Care;</l>
+            <l>Likewiſe the <hi>Rights</hi> of KING and PARLIAMENT;</l>
+            <l>Good Ancient <hi>Lawes</hi> to hold is their Intent;</l>
+            <l>They would make ſure the <hi>Subiects</hi> Libertie,</l>
+            <l>And with his <hi>Freedome</hi> his Proprietie;</l>
+            <l>This is their <hi>Ayme,</hi> that <hi>Prince</hi> and People all</l>
+            <l>May live and love, riſe up but never fall,</l>
+            <l>By <hi>Strife</hi> or <hi>Diſcord</hi> into vile contempt;</l>
+            <l>They would have all Contentions quite exempt:</l>
+            <l>And they deſire for Truths ſake which they loved</l>
+            <l>All Iealouſies and Feares may be removed:</l>
+            <l>That no miſ-priſions, nor ſtrange miſ-conſtructions</l>
+            <l>Should be produc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to worke our ſad deſtructions.</l>
+            <l>This double BODY ſo upright is placed,</l>
+            <l>That 'tis not apt to ſwerve, nor be diſgraced;</l>
+            <l>There's no deceipt invelop'd in the breſt</l>
+            <l>Where Equity and Iuſtice ſweetly reſt.</l>
+            <l>The <hi>POPE</hi> whereon this Body ſeemes to tread,</l>
+            <l>Shewes ROMES <hi>Religion</hi> heere is almoſt dead;</l>
+            <l>The <hi>Croſier Staffe</hi> and <hi>Beades</hi> doe plainely point</l>
+            <l>Idolatry to bee thruſt out of joint;</l>
+            <l>
+               <hi>Romes Raggs</hi> and ruſty <hi>Reliques</hi> all muſt flie</l>
+            <l>Here's no permiſſion now for POPERY.</l>
+            <l>
+               <pb facs="tcp:96215:3"/>The Wretch prophane, and vile Incendiary,</l>
+            <l>The <hi>Rebels</hi> all may now no longer tarry;</l>
+            <l>Gods <hi>Enemies</hi> begin their dolefull Song,</l>
+            <l>They muſt pack hence, they have beene here too long:</l>
+            <l>Truth treads on thoſe that ſtrives to domineere</l>
+            <l>The POPE, the REBEL, and the CAVALLIER.</l>
+            <l>The little <hi>Motto</hi> comming from the <hi>Pope</hi>
+            </l>
+            <l>Shews whilſt hee breaths he hath a Diveliſh hope,</l>
+            <l>To mount his Triple head againe; but ſee</l>
+            <l>He is ſo trampled downe it cannot bee;</l>
+            <l>And his <hi>Adherents</hi> have beene queld of late</l>
+            <l>By Pillaging their Armes their Coine and Plate.</l>
+            <l>The Sentence o're the <hi>Pope</hi> deſcribeth plaine</l>
+            <l>We ſhould ſhunne ſuperſtition which is vaine;</l>
+            <l>Nay worſe then vaine, for thoſe that live therein</l>
+            <l>Preſſe downe their Soules with ponderous loads of Sin,</l>
+            <l>Into the very Pit of horrid Hell,</l>
+            <l>Where all the wicked ſhall for ever dwell.</l>
+            <l>The Sacred Booke wherein lies Gods Command,</l>
+            <l>Implies both <hi>Houſes</hi> for the Truth doe ſtand;</l>
+            <l>And by its lying open, you may ſpie</l>
+            <l>It is not claſped to the LAYETY:</l>
+            <l>It is a <hi>Well,</hi> where all may quench their thirſt,</l>
+            <l>Where all ſhould drink, but none untill they burſt,</l>
+            <l>As many doe, who are ſo full oth' <hi>Spirrit</hi>
+            </l>
+            <l>They dare Preach any thing, whoever heare it,</l>
+            <l>Non-ſence or Blaſphemy, no matter what;</l>
+            <l>Some are brave Fellowes if they can but chat</l>
+            <l>And babble much in theſe our purer Dayes,</l>
+            <l>Wherein <hi>Mechanicks</hi> ſhew Divines new wayes.</l>
+            <l>The <hi>Ploughman</hi> when into a Cart hee climbes</l>
+            <l>Exceedes the learned <hi>Doctors</hi> of our Times,</l>
+            <l>The Turner. Cooper, and the Souter may,</l>
+            <l>(For ought we know) preach twice on every day:</l>
+            <l>Nay more, they can with their old working Tooles</l>
+            <l>Prove all the Ancient <hi>Fathers</hi> to bee Fooles;</l>
+            <l>
+               <hi>Auſtine</hi> profound, <hi>Bernard</hi> and <hi>Chriſoſtome,</hi>
+            </l>
+            <l>They'l quickly make into ſubjection come;</l>
+            <l>Grave <hi>Nazianzen, Ambroſe, Gregorie,</hi>
+            </l>
+            <l>They will confute and that <hi>Extemporie,</hi>
+            </l>
+            <l>If any man of common ſence or wit</l>
+            <l>Would give but credit to each Foole in's Fit.</l>
+            <l>The Sentence which upon the Booke is written</l>
+            <l>Saith <hi>GODS</hi> Word ſtill ſhall laſt, though Envy-bitten,</l>
+            <l>
+               <pb facs="tcp:96215:4"/>The other <hi>Latine</hi> Sentence doth unfold</l>
+            <l>That we our true <hi>Religion</hi> faſt ſhould hold.</l>
+            <l>The <hi>Sword</hi> that's drawne, denoteth in ſome ſenſe,</l>
+            <l>A love to <hi>Peace;</hi> yet Poſture of <hi>Defence;</hi>
+            </l>
+            <l>One of the <hi>Motto's</hi> there preſcribeth plaine,</l>
+            <l>No Man but by his owne Default is ſlaine:</l>
+            <l>Th'other averres, If <hi>GOD</hi> be on our ſide,</l>
+            <l>We need not care for Papall power or pride;</l>
+            <l>If great IEHOVAH doe but take our parts,</l>
+            <l>What earthly <hi>Potentate</hi> can wound our hearts?</l>
+            <l>When <hi>David</hi> was but young, of growth but ſmall,</l>
+            <l>He ſlew <hi>Goliah</hi> that was great and tall.</l>
+            <l>The <hi>Purſe</hi> and <hi>flaming Heart</hi> doe both expreſſe</l>
+            <l>The <hi>Coine</hi> and <hi>Plate</hi> that's brought with cheerfulneſſe,</l>
+            <l>To maintaine Armes with State, with hand and heart,</l>
+            <l>If Warre muſt be 'gainſt the malignant part.</l>
+            <l>The words <hi>Theſaurus populi</hi> doe ſhow,</l>
+            <l>Theſe bounteous preſents from the people flow:</l>
+            <l>The Rich, the Poore, the Widdow wth her Miite;</l>
+            <l>All bring in what they can in open ſight;</l>
+            <l>That all the world may notice take and ſee,</l>
+            <l>Their guifts come from them with alacritie.</l>
+            <l>From high to low, from aged unto youth,</l>
+            <l>All good men know 'tis to ſupport the truth;</l>
+            <l>Yea ſuch a Truth; that wer't extinct and gone,</l>
+            <l>Our wretched ſoules are utterly undone:</l>
+            <l>But we doe yet enjoy't, let's hold our owne,</l>
+            <l>Lets ſtand up for the Goſpell and the Crowne:</l>
+            <l>Gods Word is on our ſide, and he I hope</l>
+            <l>Will make us able to confound the Pope.</l>
+            <l>Thus farre have I unfolded what is meant</l>
+            <l>By this darke Emblem of our Parliament:</l>
+            <l>The Reaſons alſo I have ſignifi'de</l>
+            <l>Of all the Adjuncts to be ſeene beſide.</l>
+            <l>But Oh, the chiefe where I ſhould firſt begun,</l>
+            <l>Inviſible doth ſeeme, the leſſe is done;</l>
+            <l>Things doe not goe ſo forward as they might,</l>
+            <l>If one that's wanting dayly were in ſight.</l>
+            <l>This Head not ſeene into your minds may bring</l>
+            <l>The grievous abſence of our gracious King.</l>
+            <l>That Cloud which will not let us ſee our Sun,</l>
+            <l>Hath beene the cauſe of all our woes begun;</l>
+            <l>Of all our troubles, and of Irelands ſorrowes,</l>
+            <l>Whoſe every day griefe of the next ſtill borrowes.</l>
+            <l>
+               <pb facs="tcp:96215:4"/>Lord looke upon them in their great diſtreſſe,</l>
+            <l>Send them a ſpeedy and a quick redreſſe;</l>
+            <l>And grant good God (oh heare our fervent prayers)</l>
+            <l>That our caſe here may nere be like to theirs.</l>
+            <l>And gracious God (if ſo it be thy will)</l>
+            <l>Keep not our diſcontented Soveraigne ſtill</l>
+            <l>From out our ſight; that miſty Cloud remove,</l>
+            <l>Streame downe on him and us thy Rayes of love.</l>
+            <l>Lord take away thoſe feares and jealouſies,</l>
+            <l>Which have beene cauſe our ſad miſeries:</l>
+            <l>Let King and Parliament be all as one</l>
+            <l>Let all miſtakings be forgot and gone,</l>
+            <l>Let CHARLES come to us Lord, and with him bring</l>
+            <l>A branch of Olive as a peacefull King,</l>
+            <l>Let Iudah come and ſit in his owne Throne</l>
+            <l>Let Subjects all injoy and know their owne,</l>
+            <l>Let peace and plentie dwell amongſt us heere</l>
+            <l>That wee noe homebred nor out-foes may feare,</l>
+            <l>Let King and People bee no more affrighted</l>
+            <l>But let them all in love bee re-united,</l>
+            <l>Then may we all rejoyce, untill which time</l>
+            <l>I have ſmall liſt to write in Proſe or Rime.</l>
+            <trailer>
+               <hi>The end of the Explanation of the</hi> precedent EMBLEM.</trailer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:96215:5"/>
+            <head>The diſtinction betwixt Peace and VVarre, with the Authors pro<g ref="char:EOLhyphen"/>pitious Wiſh.</head>
+            <l>WHen <hi>Adam</hi> with his faireſt <hi>Eve</hi> was plac'd,</l>
+            <l>In <hi>Eden,</hi> then the world with peace was grac'd,</l>
+            <l>But when the ſubtile Serpent did begin,</l>
+            <l>To bring in hatred, then began our Sin,</l>
+            <l>He taught our Parents diſobedience firſt:</l>
+            <l>He drew them on till we were all accurſt:</l>
+            <l>They both excluded were from Paradice,</l>
+            <l>And we were made Co-heires of their Vice.</l>
+            <l>Then <hi>Caine</hi> his onely Brother <hi>Abell</hi> ſlew:</l>
+            <l>When he ſhould nere have more for ought he knew:</l>
+            <l>Contention, ſtrife and malice doe not care,</l>
+            <l>Whom firſt they kill, nor Friends nor Foes they'l ſpare:</l>
+            <l>
+               <hi>Mars</hi> and <hi>Bellona</hi> ſtill are hath'd in blood,</l>
+            <l>And very ſeldome have done any good:</l>
+            <l>But heav'nly Peace is held the thing of things,</l>
+            <l>The chiefeſt Darling of the King of Kings:</l>
+            <l>Peace was King <hi>JAMES</hi> his choiſe, God grant that he,</l>
+            <l>To <hi>CHARLES</hi> his Sonne a Preſident may be:</l>
+            <l>And grant, O Lord, (if 't be thy bleſſed will)</l>
+            <l>That we may have true peace and keepe it ſtill.</l>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:96215:5"/>
+            <head>An <hi>Emphaticall Dreame.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen glorious <hi>Phoebus</hi> had run out his Courſe,</l>
+               <l>Whirling his <hi>Chariot</hi> from the <hi>Eaſt</hi> to th' <hi>Weſt,</hi>
+               </l>
+               <l>And <hi>Cinthia</hi> bright had took a kind remorſe,</l>
+               <l>Of Mortalls, lighting them unto their reſt;</l>
+               <l>I laid me downe my heart full ſore oppreſt:</l>
+               <l>And long I had not beene upon my Bed,</l>
+               <l>But many Whimſies came into my Head.</l>
+            </lg>
+            <lg>
+               <l>My wearied Eyes would faine have had ſome ſleepe,</l>
+               <l>My vexed Cogitations long'd for Peace,</l>
+               <l>My troubled Fancie ſuch a quoile did keepe;</l>
+               <l>As if my Cares begun would never ceaſe;</l>
+               <l>My Soule each minute pray'd for her releaſe:</l>
+               <l>All ſublunary things, ſeene, heard, or read,</l>
+               <l>In my Conceipt ſeem'd then to want a Head.</l>
+            </lg>
+            <lg>
+               <l>At length I fell into a DREAME or Slumber,</l>
+               <l>You muſt conceive I was perplexed much,</l>
+               <l>My Thoughts diſturb'd ſo then, I now can't number;</l>
+               <l>Yet part thereof, I briefly here will touch,</l>
+               <l>If in few Lines one may great Matters couch:</l>
+               <l>What e're I ſaw, ſeem'd then without a Head,</l>
+               <l>Which was the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I was tranſported from the Vale</l>
+               <l>Of darke Obſcurity, where long I'd liv'd;</l>
+               <l>Induſtry put her curious Workes to ſale;</l>
+               <l>Her dainty Pieces wittily contriv'd,</l>
+               <l>
+                  <pb facs="tcp:96215:6"/>All ſhew'd, few bought; ſo few or none there thriv'd:</l>
+               <l>And ſtill me thought all things did want a Head,</l>
+               <l>And that's the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Thouſands of Objects came before mine eyes,</l>
+               <l>All in good earneſt nothing in diriſion,</l>
+               <l>Horrour mine intellectuals did ſurprize;</l>
+               <l>Amazement ſeizd my ſenſes of each Viſion;</l>
+               <l>All things diſtracted ſeemed with diviſion:</l>
+               <l>Bad Newes both farre and neere was hourely ſpread,</l>
+               <l>Which is the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw whole Houſes, Families,</l>
+               <l>All full of ſorrow, paler then the Moone,</l>
+               <l>Some wrung their hands, and ſome with watry eyes,</l>
+               <l>Cry'd out no Takings! We are all undone;</l>
+               <l>No monies to be had 'twixt Sun and Sunne:</l>
+               <l>All Trades (but for <hi>Militia</hi>) now are fled,</l>
+               <l>Which is the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw each Village, and each Towne</l>
+               <l>All in an uproare ſtruggling for the beſt,</l>
+               <l>Some ſtanding for, and ſome againſt the Crowne,</l>
+               <l>Tumults from North to South, from Eaſt to Weſt,</l>
+               <l>All Voluntiers of either ſide, none preſt:</l>
+               <l>This Land hath long been ſick, now pain'd i'th Head,</l>
+               <l>Which is the cauſe her Trading's growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thoughts I ſaw each County, Shire, and City,</l>
+               <l>Weltring in blood, or wearied with turmoiles,</l>
+               <l>Brave houſes plundred, which to ſee was pitty,</l>
+               <l>And <hi>Cavalliers</hi> even glutted with rich Spoyles,</l>
+               <l>No place quite free from theſe outragious broyles:</l>
+               <l>Rumours of Wars through every Coaſt were ſpread,</l>
+               <l>Which is the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:96215:6"/>
+               <l>Me thought I ſaw full many a Corporation,</l>
+               <l>Without a Magiſtrate, a Maior, or Guide,</l>
+               <l>Whereat a neere approaching Deſolation,</l>
+               <l>Threatned their ruine, to pluck downe their pride,</l>
+               <l>Grave <hi>Senators</hi> I ſaw much vilifide:</l>
+               <l>Upon Authority each Boy would tread,</l>
+               <l>Whence now 'tis come, the World is grown ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw a Kingdome all in Armes,</l>
+               <l>And (which is ſtrange) divided in it ſelfe,</l>
+               <l>Guns ſhooting off, Drums beating up Allarmes,</l>
+               <l>The Rich moſt ready to produce their Pelfe;</l>
+               <l>And ſome that had but two Spoons on their ſhelfe:</l>
+               <l>But all that while oppreſt with care and dread,</l>
+               <l>Which is the cauſe the World is grown ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw both Vniverſities,</l>
+               <l>Diſtracted quaſh't, and ſtrucken with amaze,</l>
+               <l>Religion minced with Diverſities</l>
+               <l>Of ſtrange opinions, makes the vulgar gaze,</l>
+               <l>At <hi>Academians</hi> and their ſhame t' emblaze:</l>
+               <l>Schollers are ſcoft and ſcorn'd, Schools want their Head,</l>
+               <l>The Arts may ſleepe, for Learning now is dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw the ſeverall Inns of Court,</l>
+               <l>Looke red for anger of a long Vacation:</l>
+               <l>Places of Juſtice had but ſmall reſort,</l>
+               <l>No Clyents, but a few for recreation,</l>
+               <l>'Cauſe Lawyers ſmel't ſo of Equivocation:</l>
+               <l>Their Judges faile, Courts want their cheifeſt Head,</l>
+               <l>Which is the cauſe our Lawes doe ſeeme ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw a Dioceſan CHVRCH,</l>
+               <l>A ſtately PALLACE, and a Biſhoppricke,</l>
+               <l>All ſtand forlorne, the <hi>Deanes</hi> and <hi>Chapters</hi> lurch,</l>
+               <l>
+                  <pb facs="tcp:96215:7"/>The Metropolitan touch'd to the quick,</l>
+               <l>The <hi>Surrogates</hi> and <hi>Proctors</hi> all were ſick:</l>
+               <l>Their <hi>head-ſtrong Humors</hi> have brought low their Head,</l>
+               <l>Which is the cauſe their Calling is ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw a ſecond Heaven on Earth,</l>
+               <l>A <hi>Parliament</hi> of noble Peeres and Commons,</l>
+               <l>All which according to their States and Birth,</l>
+               <l>Came and attended at their ſeverall Summons,</l>
+               <l>Such Men, for Wiſedome never were the <hi>Romanes:</hi>
+               </l>
+               <l>They cheerfully begun firſt with their Head,</l>
+               <l>But now hee's gone, their joyfull Hopes are dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought they had a world of diſcontent,</l>
+               <l>Feares, Doubts and Iealouſies did oft ariſe,</l>
+               <l>Betweene the abſent King, and 's <hi>Parliament,</hi>
+               </l>
+               <l>The grounds few knew, though they were nere ſo wiſe,</l>
+               <l>Unhappy thoſe good Councell doe deſpiſe:</l>
+               <l>This great Aſſembly wanting thus their Head,</l>
+               <l>May judge his abſence makes the World ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Nevertheleſſe, me thought they did proceed,</l>
+               <l>With ſuch alacrity and cheerefulneſſe,</l>
+               <l>As if they'd felt poore <hi>Irelands</hi> vvounds to bleed,</l>
+               <l>And ſympathized in Our great Diſtreſſe,</l>
+               <l>They've done their beſt our griefes all to redreſſe:</l>
+               <l>But ô their King, their Soveraigne and their Head,</l>
+               <l>His abſence makes their living hopes halfe dead.</l>
+            </lg>
+            <lg>
+               <l>Me thought I ſaw huge Regiments of men,</l>
+               <l>Striving their Soveraigne dayly to ſubvert,</l>
+               <l>With ſugred Words, and with deceitfull Pen,</l>
+               <l>With Vaunts, and Brags, and with alluring Art.</l>
+               <l>They've captivated, and ſeduc'd his Heart:</l>
+               <l>By theſe our King hath ſtrongly bin miſ-led,</l>
+               <l>Which is the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:96215:7"/>
+               <l>Papiſts, and others Popiſhly affected,</l>
+               <l>
+                  <hi>Monopoliſts, Projectours, Cavalliers,</hi>
+               </l>
+               <l>Such of the CLERGIE as are diſ-affected</l>
+               <l>Unto the King and State, increaſe our feares;</l>
+               <l>Bankrupts, and Raſcals hourely ſend us Ieares:</l>
+               <l>Our preſent Troubles farre and neere are ſpread,</l>
+               <l>Which is the cauſe the World is growne ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Theſe are the Shavers that have bred theſe Warres,</l>
+               <l>Theſe have our King from's <hi>Parliament</hi> divided,</l>
+               <l>Theſe have occaſion'd all our Strifes and Iarres,</l>
+               <l>By theſe GODS Children dayly are derided,</l>
+               <l>Good Remedies (I hope) will be provided:</l>
+               <l>But now ſuch heavy Newes of Warres is ſpread,</l>
+               <l>That all the World, all Trades, all Things are dead.</l>
+            </lg>
+            <lg>
+               <l>The King (ſeduced) needs muſt be diſturb'd,</l>
+               <l>The Subject and the Kingdome are diſtracted,</l>
+               <l>The <hi>Cavalliers</hi> may ſuddenly bee curb'd,</l>
+               <l>Good Statutes may be acted, and tranſacted,</l>
+               <l>Their Plots confounded that have long compacted:</l>
+               <l>Then will Our Hopes with Happineſſe bee fed,</l>
+               <l>Meane while I grieve to ſee the World thus dead.</l>
+            </lg>
+            <lg>
+               <l>Theſe were my <hi>Dreames,</hi> or this my DREAME at leaſt,</l>
+               <l>Which much perplex't my <hi>trembling Thoughts</hi> with feare,</l>
+               <l>At length I wak'd, and found my DREAME no jeſt,</l>
+               <l>As by theſe Times may very well appeare,</l>
+               <l>Let's therefore pray to GOD Our Father deare:</l>
+               <l>That every Thing may have it's proper Head,</l>
+               <l>And then all Trades will ceaſe to be ſo dead.</l>
+            </lg>
+            <lg>
+               <l>God bleſſe Our King, his Royall Conſort bleſſe,</l>
+               <l>Lord teach them both to know and keepe thy Word,</l>
+               <l>Bleſſe all their Off-ſpring, ſheild them from diſtreſſe,</l>
+               <l>
+                  <pb facs="tcp:96215:8"/>Thine holy Spirit unto them affoord,</l>
+               <l>And keep us all from Famine, Plague, and Sword:</l>
+               <l>And if thou pleaſe to be our Generall Head,</l>
+               <l>We then ſhall live for aye, and ne're be dead.</l>
+            </lg>
+            <lg>
+               <l>Bleſſe likewiſe Lord our hopefull <hi>Parliament,</hi>
+               </l>
+               <l>Bleſſe both the Houſes, Peeres, and Commons all;</l>
+               <l>Give them their full deſire, their hearts content,</l>
+               <l>That Truth may raiſed be, and Falſhood fall;</l>
+               <l>And proſper their Deſignes both great and ſmall:</l>
+               <l>Grant them the ſweet fruition of their Head,</l>
+               <l>That theſe our Times may be no more ſo dead.</l>
+            </lg>
+            <lg>
+               <l>Bleſſe alſo Lord, brave <hi>Eſſex</hi> that great Earle,</l>
+               <l>Bleſſe his Lieutenants, Captaines, and Commanders,</l>
+               <l>Bleſſe all his Souldiers, give us Peace (that Pearle,)</l>
+               <l>Reduce all ſuch as erre, each one that wanders</l>
+               <l>In any by-pathes, keep us all from ſlaunders:</l>
+               <l>For his ſake that his blood for us hath ſhed,</l>
+               <l>And grant our Faith and Hope may ne're bee dead.</l>
+            </lg>
+            <lg>
+               <l>And grant that our thrice noble Earle may bring</l>
+               <l>The joyfull Enſignes of Triumph, and Honour,</l>
+               <l>That we may ſee the Perſon of our King,</l>
+               <l>That Peace may be diſplay'd in every Banner;</l>
+               <l>As for the VVhore of <hi>Babell</hi> out upon her:</l>
+               <l>Let Vnity throughout great Brittaine ſpread,</l>
+               <l>And then all Trades will be no more ſo dead.</l>
+            </lg>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:96215:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
